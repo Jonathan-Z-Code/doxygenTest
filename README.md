@@ -1,4 +1,6 @@
 # doxygenTesting
 
+## Easily Accessibile Documentation for All
+Accessibile documentation on a central platform reduces headaches for everyone involved!
 
-[A link to that custom anchor](https://jonathan-z-code.github.io/doxygenTest/html/index.html)
+[Link to my test doxygen page! ](https://jonathan-z-code.github.io/doxygenTest/html/index.html)
