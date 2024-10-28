@@ -1,5 +1,5 @@
 # doxygenTesting
-Welcome to the doxygen playground :)
+Welcome to the doxygen playground :) \n
 By: Jonathan Zurita
 
 ## Easily Accessibile Documentation for All
